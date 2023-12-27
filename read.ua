@@ -1,1 +1,1 @@
-∵(⊐⋕)⊜□≠,@ &sc # read ints splited by space
+∵(⊐⋕)⊜□≠,@ &sc # read ints splitted by space
