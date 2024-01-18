@@ -1,0 +1,65 @@
+{
+	"Switch Function": {
+		"prefix": "switch",
+		"body": [
+			"($1|$2)"
+		],
+		"description": "Switch Function"
+	},
+	"Read int array spllitted with space": {
+		"prefix": "scis",
+		"body": [
+			"⊜⋕≠,@ &sc"
+		],
+		"description": "Read int array"
+	},
+	"Sum": {
+		"prefix": "sum",
+		"body": [
+			"/+"
+		],
+		"description": "Sum"
+	},
+	"Sort": {
+		"prefix": "sort",
+		"body": [
+			"⊏⍏."
+		],
+		"description": "Sort array"
+	},
+	"Join with Space": {
+		"prefix": "joinis",
+		"body": [
+			"°□/(⊂⊂:@ ∩°□)≡(□$\"_\")"
+		],
+		"description": "Join int array with space"
+	},
+	"Slower Join with Space": {
+		"prefix": "s_joins",
+		"body": [
+			"/$\"_ _\""
+		],
+		"description": "Join int array with space but slower"
+	},
+	"Negative Int to String": {
+		"prefix": "nis",
+		"body": [
+			"(∘|@-;)=@¯.$\"_\""
+		],
+		"description": "Since Uiua print negative unary as ¯, so we need to convert it to -"
+	},
+	"YesNo": {
+		"prefix": "yesno",
+		"body": [
+			"(\"Yes\"|\"No\")"
+		],
+		"description": ""
+	},
+	"NoYes": {
+		"prefix": "noyes",
+		"body": [
+			"(\"No\"|\"Yes\")"
+		],
+		"description": ""
+	},
+}
