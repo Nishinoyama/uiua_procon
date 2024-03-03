@@ -19,7 +19,7 @@ $oj_path test -c "uiua main.ua"
 
 if [ $? -eq 0 ]; then
     # if store is not y or n, ask again
-    $store=""
+    store=""
     while [ "$store" != "y" ] && [ "$store" != "n" ]; do
         read -p "Congrats! Do you want to store the code? [Y/n]: " store
         if [ -z $store ]; then
